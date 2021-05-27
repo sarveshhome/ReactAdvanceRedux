@@ -1,6 +1,19 @@
 # React Advance Redux
 
 
+# NPM
+
+`npm install @reduxjs/toolkit`
+
+https://redux-toolkit.js.org/introduction/getting-started
+
+`npm install react-redux`
+
+
+
+
+"The cost of failure is education."  - Devin Carraway
+
 
 
 # Getting Started with Create React App
