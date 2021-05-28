@@ -10,6 +10,10 @@ https://redux-toolkit.js.org/introduction/getting-started
 `npm install react-redux`
 
 
+# redux devTools
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
 
 
 "The cost of failure is education."  - Devin Carraway
